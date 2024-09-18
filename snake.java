@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.Random;
+import java.util.*;
 class GameFrame extends JFrame {
     GameFrame(){
         this.add(new GamePanel());
